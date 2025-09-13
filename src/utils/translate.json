@@ -1,0 +1,10 @@
+{
+    "es": {
+        "language": "Español",
+        "welcome_message": "Welcome"
+    }, 
+    "en": {
+        "language": "Ingles",
+        "welcome_message": "Bienvenido"
+    }
+}
